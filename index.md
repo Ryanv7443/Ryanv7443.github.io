@@ -4,7 +4,7 @@ This is my home page! My name is Ryan Vo and I am a student at [Cal State Fuller
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/Ryanv7443
+My GitHub page is [My GitHub page](https://github.com/Ryanv7443)
 
 ### CPSC 120
 

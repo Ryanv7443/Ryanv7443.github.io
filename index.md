@@ -14,7 +14,7 @@ My GitHub page is [https://github.com/Ryanv7443](https://github.com/Ryanv7443)
 
 * Lab 5
 
-    Lab 5, part 2 was a favorite because it was a real challenge for me. I learned how to use truncation in coding and how to convert decimal feet into feet and inches. 
+    Lab 5, part 2 was a favorite because it was a real challenge for me. It was difficult, but I still learned a lot. I learned how to use truncation in coding and how to convert decimal feet into feet and inches. 
 
 * Lab 9
 

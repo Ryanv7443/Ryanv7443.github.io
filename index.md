@@ -1,4 +1,4 @@
-#Hello World
+# Hello World
 
 This is my home page! My name is Ryan Vo and I am a student at [Cal State Fullerton](https://www.fullerton.edu/) and my major is electrical engineering 
 
@@ -6,7 +6,7 @@ This is my home page! My name is Ryan Vo and I am a student at [Cal State Fuller
 
 My GitHub page is http://github.com/Ryanv7443
 
-###CPSC 120
+### CPSC 120
 
 * Lab 3
 
